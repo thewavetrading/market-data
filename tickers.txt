@@ -111,7 +111,7 @@ ORCL
 PLTR
 NOW
 SNOW
-# --- Posiciones de Andrea ---
+# --- Otros ---
 MSTR
 COIN
 CRCL
