@@ -1,3 +1,4 @@
 date,members,pct_above_sma20,pct_above_sma50,pct_above_sma200,advancers,decliners,unchanged,new_52w_highs,new_52w_lows,within_2pct_of_52w_high,within_2pct_of_52w_low,pct_rsi14_above_70,pct_rsi14_below_30
 2026-11-20,503,18.9,42.5,45.3,122,377,4,0,24,6,34,0.2,10.5
 2026-11-23,503,30.6,52.1,52.5,419,83,1,0,3,5,9,0.0,2.0
+2026-11-24,503,39.4,55.1,52.5,348,153,2,8,1,29,6,1.0,1.4
